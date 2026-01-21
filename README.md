@@ -1,18 +1,75 @@
-# 💫 About Me:
-🔭 I’m currently working on: Full-stack and backend projects using Java, Spring Boot, React, Next.js, and REST APIs.<br>👯 I’m looking to collaborate on: Backend-heavy, API-driven, or system-design-focused open-source projects.<br>🤝 I’m looking for help with: Improving scalability, performance optimization, and production-grade backend practices.<br>🌱 I’m currently learning: Advanced Spring Boot, microservices, cloud deployment, and system design fundamentals.<br>💬 Ask me about: Java, Spring Boot, REST APIs, JWT authentication, databases, and full-stack application architecture.<br>⚡ Fun fact: I enjoy turning complex backend requirements into clean, maintainable APIs.
+# Anjesh Ranjan Dash
 
+**Backend / Full‑Stack Engineer | Java & Spring Boot Specialist**
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/anjesh1227) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anjesh-ranjan-dash-bb9a98251) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anjeshdash@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AnjeshDash&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AnjeshDash&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnjeshDash&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I build **scalable, production‑grade backend systems** and clean, maintainable APIs. My primary focus is **Java, Spring Boot, system design, and cloud‑ready architectures**, with hands‑on full‑stack experience when required.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AnjeshDash&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 What I’m Working On
+
+* Backend‑heavy and full‑stack projects using **Java, Spring Boot, REST APIs, React, and Next.js**
+* Designing **scalable APIs**, improving **performance**, and applying **production best practices**
+
+## 🤝 Open to Collaborations
+
+* Backend‑first or API‑driven open‑source projects
+* Systems involving **microservices, databases, caching, and scalability**
+
+## 🌱 Currently Learning
+
+* Advanced **Spring Boot** & **Microservices**
+* **System Design fundamentals** (scalability, consistency, trade‑offs)
+* **Cloud deployment** & containerized applications
+
+## 💬 Ask Me About
+
+* Java & Spring Boot
+* REST APIs, JWT authentication, and backend architecture
+* Databases (SQL & NoSQL) and API design principles
+
+---
+
+## 🛠 Tech Stack
+
+### Backend & APIs
+
+* **Java, Spring Boot, Hibernate, JWT**
+* **Node.js, NestJS, Express.js**
+
+### Frontend
+
+* **React, Next.js, TypeScript, JavaScript**
+
+### Databases & Search
+
+* **PostgreSQL, MySQL, MongoDB**
+* **Elasticsearch**
+
+### DevOps & Tooling
+
+* **Docker, Git, GitHub**
+* **Maven, Tomcat**
+* **Postman, Jest**
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnjeshDash\&theme=dark\&include_all_commits=true\&count_private=true)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=AnjeshDash\&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnjeshDash\&theme=dark\&layout=compact)
+
+---
+
+## 🌐 Connect With Me
+
+* **LinkedIn:** [https://linkedin.com/in/anjesh-ranjan-dash-bb9a98251](https://linkedin.com/in/anjesh-ranjan-dash-bb9a98251)
+* **Email:** [anjeshdash@gmail.com](mailto:anjeshdash@gmail.com)
+* **Discord:** anjesh1227
+
+---
+
+> I enjoy turning complex backend requirements into clean, scalable, and maintainable systems.
