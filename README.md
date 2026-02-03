@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Full-stack and backend projects using Java, Spring Boot, React, Next.js, and REST APIs.<br>👯 I’m looking to collaborate on: Backend-heavy, API-driven, or system-design-focused open-source projects.<br>🤝 I’m looking for help with: Improving scalability, performance optimization, and production-grade backend practices.<br>🌱 I’m currently learning: Advanced Spring Boot, microservices, cloud deployment, and system design fundamentals.<br>💬 Ask me about: Java, Spring Boot, REST APIs, JWT authentication, databases, and full-stack application architecture.<br>⚡ Fun fact: I enjoy turning complex backend requirements into clean, maintainable APIs.
+🔭 I’m currently working on: Full-stack and backend projects using Java, Spring Boot, React, Next.js, and REST APIs.<br>👯 I’m looking to collaborate on: Backend-heavy, API-driven, or system-design-focused open-source projects.<br>🤝 I’m looking for help with: Improving scalability, performance optimization, and production-grade backend practices.<br>🌱 I’m currently learning: Advanced Spring Boot, microservices, cloud deployment, and system design fundamentals.<br>💬 Ask me about: Java, Spring Boot, REST APIs, JWT authentication, databases, and full-stack application architecture.<br>
 
 
 ## 🌐 Socials:
